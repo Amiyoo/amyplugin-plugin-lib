@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/antonio/Downloads/RePlugin-2.3.4/replugin-plugin-library/replugin-plugin-lib/src/main/assets"/><source path="/Users/antonio/Downloads/RePlugin-2.3.4/replugin-plugin-library/replugin-plugin-lib/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/antonio/Downloads/RePlugin-2.3.4/replugin-plugin-library/replugin-plugin-lib/src/release/assets"/></dataSet></merger>
